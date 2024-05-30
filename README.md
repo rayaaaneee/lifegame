@@ -1,1 +1,3 @@
-# lifegame
+# Lifegame 🧬
+
+Project starts soon ..
